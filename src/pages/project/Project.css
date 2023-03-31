@@ -1,0 +1,22 @@
+.project-Comments {
+    /* Bring it little down */
+
+  display: grid;
+  grid-template-columns: 3fr 2fr;
+  align-items: start;
+  grid-gap: 60px;
+}
+.project-comments label{
+    margin-bottom: 0px;
+
+}
+.project-comments textarea{
+    width: 100%;
+    height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    resize: none;
+}
