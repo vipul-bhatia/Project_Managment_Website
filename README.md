@@ -28,3 +28,7 @@ React, Firebase...
 
 For support, vipul0592bhatia@gmail.com or join our Slack channel.
 
+## Screenshots
+
+![App Screenshot](https://github.com/vipul-bhatia/Project_Managment_Website/blob/master/WhatsApp%20Image%202023-03-31%20at%209.24.55%20PM.jpeg)
+
